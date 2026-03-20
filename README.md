@@ -27,24 +27,41 @@
 
 ## 📖 Table of Contents
 
-1. [The Problem](#-the-problem)
-2. [Meet Ravi — Our Persona](#-meet-ravi--our-persona)
-3. [The GigGuard X Solution](#-the-gigguard-x-solution)
-4. [What Makes Us Unique — The Proof of Work Layer](#-what-makes-us-unique--the-proof-of-work-layer)
-5. [System Architecture](#-system-architecture)
-6. [End-to-End Flow](#-end-to-end-flow)
-7. [Intelligence Layer](#-intelligence-layer)
-8. [5-Layer Defense System](#-5-layer-defense-system)
-9. [Trust Score Engine](#-trust-score-engine)
-10. [Income Buffer Wallet](#-income-buffer-wallet)
-11. [GenAI + RAG System](#-genai--rag-system)
-12. [Weekly Pricing Model](#-weekly-pricing-model)
-13. [Parametric Trigger Matrix](#-parametric-trigger-matrix)
-14. [Full Feature Checklist](#-full-feature-checklist)
-15. [Tech Stack](#-tech-stack)
-16. [Competitive Differentiation](#-competitive-differentiation)
-17. [Business Model](#-business-model)
-18. [Roadmap](#-roadmap)
+- [📖 Table of Contents](#-table-of-contents)
+- [🚨 The Problem](#-the-problem)
+- [👤 Meet Ravi — Our Persona](#-meet-ravi--our-persona)
+  - [Real Disruption Scenarios](#real-disruption-scenarios)
+- [💡 The GigGuard X Solution](#-the-gigguard-x-solution)
+- [🏆 What Makes Us Unique — The Proof of Work Layer](#-what-makes-us-unique--the-proof-of-work-layer)
+  - [The Problem With GPS-Only Fraud Detection](#the-problem-with-gps-only-fraud-detection)
+  - [Our Solution: Proof of Work (PoW)](#our-solution-proof-of-work-pow)
+- [🏗 System Architecture](#-system-architecture)
+- [🔄 End-to-End Flow](#-end-to-end-flow)
+- [🧠 Intelligence Layer](#-intelligence-layer)
+  - [A. Workability Score (WS)](#a-workability-score-ws)
+  - [B. Income Prediction Model](#b-income-prediction-model)
+  - [C. Dynamic Pricing Model](#c-dynamic-pricing-model)
+- [🛡 5-Layer Defense System](#-5-layer-defense-system)
+- [🔐 Trust Score Engine](#-trust-score-engine)
+- [💰 Income Buffer Wallet](#-income-buffer-wallet)
+- [🤖 GenAI + RAG System](#-genai--rag-system)
+- [💸 Weekly Pricing Model](#-weekly-pricing-model)
+- [⚡ Parametric Trigger Matrix](#-parametric-trigger-matrix)
+- [✅ Full Feature Checklist](#-full-feature-checklist)
+  - [Core Product](#core-product)
+  - [AI / ML Features](#ai--ml-features)
+  - [GenAI + RAG Features](#genai--rag-features)
+  - [Novel / Unique Features](#novel--unique-features)
+  - [Trust \& Security](#trust--security)
+  - [Integrations](#integrations)
+  - [Analytics \& Admin](#analytics--admin)
+  - [Advanced / WOW](#advanced--wow)
+- [🛠 Tech Stack](#-tech-stack)
+- [🆚 Competitive Differentiation](#-competitive-differentiation)
+- [💼 Business Model](#-business-model)
+- [🗺 Roadmap](#-roadmap)
+- [📂 Repository Structure](#-repository-structure)
+- [🚀 Quick Start](#-quick-start)
 
 ---
 
@@ -283,6 +300,7 @@ Inspired by how Bitcoin verifies miners *actually did computational work*, our P
 ║  └─────────────────────────────────────────────────────────────────────┘    ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
+![Logo](assets/gigguard_x_architecture.svg)
 
 ---
 
@@ -392,6 +410,8 @@ WORKER JOURNEY — FROM SIGNUP TO PAYOUT
    attempts logged). Trust Score 88/100 → auto-approved.
    Payout = 60% of ₹875 estimated lost income = ₹525."
 ```
+
+![Logo](assets\gigguard_e2e_flow.svg)
 
 ---
 
