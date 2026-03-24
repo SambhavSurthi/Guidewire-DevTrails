@@ -96,7 +96,7 @@ A typical monsoon day in Hyderabad:
 
 ## 👤 Meet Ravi — Our Persona
 
-> *"Main roz subah niklata hoon. Agar barish ho gayi toh mera din barbad. Koi insurance nahi, koi backup nahi."*
+> *"Main rozz subah niklata hoon. Agar barish ho gayi toh mera din barbad. Koi insurance nahi, koi backup nahi."*
 > *("I step out every morning. If it rains, my day is ruined. No insurance, no backup.")*
 
 ```
